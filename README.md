@@ -1,8 +1,8 @@
 # 🐦 Flappy Bird em Python
 
-Projeto desenvolvido em **Python**, utilizando a biblioteca **Pygame**, inspirado no clássico jogo *Flappy Bird*.
+Projeto desenvolvido em **Python**, utilizando a biblioteca **Pygame**, inspirado no clássico jogo **Flappy Bird**.
 
-Este projeto tem como objetivo aplicar, na prática, conceitos fundamentais de **lógica de programação**, **programação orientada a eventos**, **detecção de colisões** e **organização de código**, com foco educacional e acadêmico.
+O objetivo deste projeto é aplicar, na prática, conceitos fundamentais de **lógica de programação**, **programação orientada a eventos**, **detecção de colisões** e **organização de código**, com foco educacional e acadêmico.
 
 ---
 
@@ -10,14 +10,14 @@ Este projeto tem como objetivo aplicar, na prática, conceitos fundamentais de *
 
 - Controle do pássaro desviando dos obstáculos (canos)
 - A pontuação aumenta conforme os canos são ultrapassados
-- O jogo termina ao colidir com um obstáculo ou sair da tela
+- O jogo termina ao colidir com um obstáculo ou ao sair da tela
 
 ---
 
 ## ⌨️ Controles
 
 - **ESPAÇO** → Pular  
-- **S** → Reiniciar o jogo (após Game Over)  
+- **S** → Reiniciar o jogo (após *Game Over*)  
 - **N** → Encerrar o jogo  
 
 ---
@@ -33,9 +33,10 @@ Este projeto tem como objetivo aplicar, na prática, conceitos fundamentais de *
 
 ## 📁 Estrutura do Projeto
 
+```text
 flappy-bird-python/
 ├── assets/
-│ ├── imagens/
-│ └── sons/
+│   ├── imagens/
+│   └── sons/
 ├── main.py
-├── README.md
+└── README.md
